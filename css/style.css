@@ -1,0 +1,6 @@
+/* Auther:MR Rajni kant Mahato,MISS Kathakali Nashkar and SAMAY
+Date build:24/12/2021
+About:Christmas Wise Website template for injoying this day me and my FRIENDS  */
+body{height:100vh;width:100vw;font-family:'Chewy',cursive;font-size:6vw;color:white;position:fixed;left:0;top:0;text-align:center}
+#tp{width:100vw;position:fixed;left:0;top:40vh;color:white;-webkit-transition-property:top,color;-webkit-transition-duration:.7s;-webkit-transition-timing-function:ease;z-index:3}
+#bt{width:100vw;position:fixed;left:0;top:calc(40vh + 100px);color:transparent;-webkit-transition-property:top,color;-webkit-transition-duration:.7s;-webkit-transition-timing-function:ease;z-index:3}
